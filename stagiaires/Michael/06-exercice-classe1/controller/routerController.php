@@ -6,3 +6,5 @@
 # Création de notre connexion PDO (avec try catch)
 
 # suivant les actions utilisateur, appelez les vues.
+
+require ROOT_PROJECT."/view/homepage.html.php";
